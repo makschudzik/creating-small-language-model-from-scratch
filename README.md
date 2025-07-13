@@ -27,6 +27,23 @@ Please place the `sentences.txt` file in the root directory of this repository b
 To set up this project locally, clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/makschudzik/Creating-Small-Language-Model-from-Scratch.git](https://github.com/makschudzik/Creating-Small-Language-Model-from-Scratch.git) # Adjust if your repo name is different
+git clone [https://github.com/makschudzik/creating-small-language-model-from-scratch.git](https://github.com/makschudzik/creating-small-language-model-from-scratch.git) # Adjust if your repo name is different
 cd Creating-Small-Language-Model-from-Scratch
 pip install -r requirements.txt
+```
+
+Follow the instructions within the notebook, executing cells sequentially to observe each stage of data preparation, model building, and training.
+
+Future Work and Potential Enhancements
+Larger Datasets: Experimenting with larger and more complex text datasets to improve model quality.
+
+More Complex Architectures: Implementing more advanced neural network architectures, such as Recurrent Neural Networks (RNNs), LSTMs, or Transformer models.
+
+Author
+Maksymilian Chudzik
+
+GitHub: https://github.com/makschudzik
+
+LinkedIn: https://www.linkedin.com/in/maksymilian-chudzik-429a59366/
+
+⭐ If you find this project helpful, please give it a star! Thank you! ⭐
