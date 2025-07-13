@@ -28,7 +28,7 @@ To set up this project locally, clone the repository and install the required de
 
 ```bash
 git clone [https://github.com/makschudzik/creating-small-language-model-from-scratch.git](https://github.com/makschudzik/creating-small-language-model-from-scratch.git) # Adjust if your repo name is different
-cd Creating-Small-Language-Model-from-Scratch
+cd creating-small-language-model-from-scratch
 pip install -r requirements.txt
 ```
 
