@@ -18,7 +18,7 @@ Initial analysis shows that even a simple model built from scratch can learn mea
 
 ## 🗂️ Dataset
 
-The dataset used in this project is a simple text file named `sentences.txt`, which should contain a collection of sentences.
+The dataset used in this project is a simple text file named `sentences.txt`, which contain a collection of sentences.
 
 Please place the `sentences.txt` file in the root directory of this repository before running the notebook.
 
