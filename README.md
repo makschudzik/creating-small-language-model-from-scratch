@@ -34,16 +34,18 @@ pip install -r requirements.txt
 
 Follow the instructions within the notebook, executing cells sequentially to observe each stage of data preparation, model building, and training.
 
-Future Work and Potential Enhancements
-Larger Datasets: Experimenting with larger and more complex text datasets to improve model quality.
+## Future Work and Potential Enhancements
 
-More Complex Architectures: Implementing more advanced neural network architectures, such as Recurrent Neural Networks (RNNs), LSTMs, or Transformer models.
+* **Larger Datasets:** Experimenting with larger and more complex text datasets to improve model quality.
+* **More Complex Architectures:** Implementing more advanced neural network architectures, such as Recurrent Neural Networks (RNNs), LSTMs, or Transformer models.
+* **Text Generation:** Extending the model with functionality to generate new text sequences.
+* **Hyperparameter Optimization:** Tuning model hyperparameters and the training process.
+* **Other Evaluation Metrics:** Introducing additional metrics for model evaluation.
 
-Author
-Maksymilian Chudzik
+## Author
 
-GitHub: https://github.com/makschudzik
-
-LinkedIn: https://www.linkedin.com/in/maksymilian-chudzik-429a59366/
+* **Maksymilian Chudzik**
+    * GitHub: [Maksymilian Chudzik - GitHub](https://github.com/makschudzik)
+    * LinkedIn: [Maksymilian Chudzik - LinkedIn](https://www.linkedin.com/in/maksymilian-chudzik-429a59366/)
 
 ⭐ If you find this project helpful, please give it a star! Thank you! ⭐
